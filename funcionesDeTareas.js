@@ -9,9 +9,6 @@ const {
 
 
 module.exports = {
-    guardarJson: (...objetos) => {
-        fs.writeFileSync('./tareas.json', JSON.stringify(...objetos, null, 3));
-    },
 
     listar: () => {
         tareas.forEach((tarea, index) => console.log(`${index+1}- Titutlo: ${tarea.titulo}, estado: ${tarea.estado}`))
