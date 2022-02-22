@@ -1,30 +1,22 @@
 [
    {
-      "titulo": "limpiar",
+      "titulo": "phyton",
       "estado": "pendiente"
    },
    {
-      "titulo": "cocinar",
+      "titulo": "css",
       "estado": "pendiente"
    },
    {
-      "titulo": "estudiar",
+      "titulo": "js",
       "estado": "pendiente"
    },
    {
-      "titulo": "compras",
-      "estado": "terminada"
+      "titulo": "java",
+      "estado": "pendiente"
    },
    {
-      "titulo": "dormir",
-      "estado": "terminada"
-   },
-   {
-      "titulo": "hola",
-      "estado": "terminada"
-   },
-   {
-      "titulo": "estudiar",
+      "titulo": "react",
       "estado": "terminada"
    }
 ]
